@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: myapp.AppTest
+Test set: myapp.ClimbingstairsTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.157 s - in myapp.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in myapp.ClimbingstairsTest
