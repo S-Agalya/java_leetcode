@@ -3,11 +3,11 @@ package myapp;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class Remove_ElementTest {
+public class RemoveElementTest {
 
     @Test // Add this annotation
     public void testRemoveElement() {
-        Remove_Element removedElement = new Remove_Element();
+        RemoveElement removedElement = new RemoveElement();
         int[] expected = {1, 2, 3, 4}; 
         int[] array = {1, 2, 3, 4, 5}; 
         int val = 5; 

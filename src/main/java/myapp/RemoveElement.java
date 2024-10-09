@@ -1,6 +1,6 @@
 package myapp;
 import java.util.Arrays;
-public class Remove_Element {
+public class RemoveElement {
         public int removeElement(int[] nums, int val) {
         int j=0;
         for(int i=0;i<nums.length;i++){
