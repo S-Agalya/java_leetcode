@@ -8,7 +8,7 @@ public class Firstandlast {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==target){
                 if(start==-1){
-                    start=i;
+                    start=i;                                                                          
                 }
                 end=i;  
             }
